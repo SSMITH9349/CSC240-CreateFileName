@@ -27,5 +27,7 @@ class CreateFileName
         for(x = 0; x < names.Length; x++)
             writer.Write(names[x]);
 
+        writer.Close();
+        file.Close();
     }
 }
