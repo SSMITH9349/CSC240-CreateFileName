@@ -1,0 +1,15 @@
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\bin\Debug\net6.0\CSC240-CreateFileName.exe
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\bin\Debug\net6.0\CSC240-CreateFileName.deps.json
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\bin\Debug\net6.0\CSC240-CreateFileName.runtimeconfig.json
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\bin\Debug\net6.0\CSC240-CreateFileName.dll
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\bin\Debug\net6.0\CSC240-CreateFileName.pdb
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.csproj.AssemblyReference.cache
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.AssemblyInfoInputs.cache
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.AssemblyInfo.cs
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.dll
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\refint\CSC240-CreateFileName.dll
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.pdb
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\CSC240-CreateFileName.genruntimeconfig.cache
+C:\Users\Sara\Documents\School Documents\Programs\Excersises\Excersises\Excersises\CSC240-CreateFileName\CSC240-CreateFileName\CSC240-CreateFileName\obj\Debug\net6.0\ref\CSC240-CreateFileName.dll

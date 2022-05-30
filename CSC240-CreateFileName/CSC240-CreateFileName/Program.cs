@@ -24,8 +24,8 @@ class CreateFileName
         };
 
         int x;
-        for(x = 0; x < names.Length; x++)
-            writer.Write(names[x]);
+        for(x = 0; x < names.Length; ++x)
+            writer.WriteLine(names[x]);
 
         writer.Close();
         file.Close();
