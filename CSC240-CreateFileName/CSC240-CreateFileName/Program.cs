@@ -23,5 +23,9 @@ class CreateFileName
             "Juan      "
         };
 
+        int x;
+        for(x = 0; x < names.Length; x++)
+            writer.Write(names[x]);
+
     }
 }
