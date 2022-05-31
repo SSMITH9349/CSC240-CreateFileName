@@ -37,5 +37,8 @@ public class ReadNameFile
 			"want to start?");
 	Write("		(Enter" + END + "to quit) >>  ");
 	num = Convert.ToInt32(ReadLine());
+
+reader.Close();
+file.Close();
 	}
 }
