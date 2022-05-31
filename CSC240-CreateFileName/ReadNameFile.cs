@@ -15,5 +15,13 @@ public class ReadNameFile
 	int num;
 	int size;
 	string name;
+
+	name = reader.ReadLine();
+		while(name !=null)
+		{
+			++count;
+			name= reader.ReadLine();
+		}
+	size = (int)File.Length / count;
 	}
 }
