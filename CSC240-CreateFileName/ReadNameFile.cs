@@ -23,5 +23,9 @@ public class ReadNameFile
 			name= reader.ReadLine();
 		}
 	size = (int)File.Length / count;
+
+	Write("\nWith Which number do you want to start? >> ");
+	num = Convert.ToInt32(ReadLine());
+
 	}
 }
