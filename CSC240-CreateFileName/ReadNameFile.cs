@@ -27,5 +27,15 @@ public class ReadNameFile
 	Write("\nWith Which number do you want to start? >> ");
 	num = Convert.ToInt32(ReadLine());
 
+	while(num != END)
+	{
+	name = reader.ReadLine();
+	WriteLine(" " + name);
+	}
+
+	WriteLine("\nWith which number do you" +
+			"want to start?");
+	Write("		(Enter" + END + "to quit) >>  ");
+	num = Convert.ToInt32(ReadLine());
 	}
 }
